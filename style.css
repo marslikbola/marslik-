@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+header{
+background-color: #282829;
+display: flex;
+justify-content: space-between;
+height: 80px;
+align-items: center;
+padding: 0 130px;    
+}
+
+ul{
+    display: flex;
+    gap: 50px;
+    
+}
